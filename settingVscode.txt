@@ -1,0 +1,23 @@
+{
+  "workbench.startupEditor": "none",
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 17,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.fontSize": 15,
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "editor.linkedEditing": true,
+  "typescript.suggest.paths": true,
+  "javascript.suggest.paths": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.bracketPairColorization.enabled": false,
+  "npm.enableRunFromFolder": true,
+  "terminal.integrated.scrollback": 5000,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "explorer.confirmDelete": false
+}
