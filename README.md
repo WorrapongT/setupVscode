@@ -1,1 +1,1 @@
-# first setup vscode
+# Setup vscode for me
