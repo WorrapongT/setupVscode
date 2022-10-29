@@ -1,7 +1,7 @@
 {
   "workbench.startupEditor": "none",
   "files.autoSave": "afterDelay",
-  "editor.fontSize": 17,
+  "editor.fontSize": 20,
   "security.workspace.trust.untrustedFiles": "open",
   "terminal.integrated.fontSize": 15,
   "html.autoClosingTags": true,
